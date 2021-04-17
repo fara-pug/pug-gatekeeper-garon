@@ -1,0 +1,15 @@
+2021/04/17-13:25:22.573 239c Reusing MANIFEST /home/max/.config/FARA/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2021/04/17-13:25:22.574 239c Recovering log #6616
+2021/04/17-13:25:22.574 239c Reusing old log /home/max/.config/FARA/IndexedDB/file__0.indexeddb.leveldb/006616.log 
+2021/04/17-13:25:24.755 239c Level-0 table #6621: started
+2021/04/17-13:25:24.776 239c Level-0 table #6621: 1453 bytes OK
+2021/04/17-13:25:24.793 239c Delete type=0 #6616
+2021/04/17-13:25:24.793 239c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/17-13:25:24.793 239c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x03\x00\x00\x00\xb0\xe2>sA' @ 35904 : 1
+2021/04/17-13:25:24.793 239c Compacting 1@1 + 1@2 files
+2021/04/17-13:25:24.807 239c Generated table #6622@1: 34 keys, 5140 bytes
+2021/04/17-13:25:24.808 239c Compacted 1@1 + 1@2 files => 5140 bytes
+2021/04/17-13:25:24.823 239c compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/17-13:25:24.824 239c Delete type=2 #6621
+2021/04/17-13:25:24.824 239c Delete type=2 #6618
+2021/04/17-13:25:24.824 239c Manual compaction at level-1 from '\x00\x01\x01\x02\x03\x00\x00\x00\xb0\xe2>sA' @ 35904 : 1 .. (end); will stop at (end)
